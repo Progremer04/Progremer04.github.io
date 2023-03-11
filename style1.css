@@ -1,0 +1,903 @@
+body{
+display: block;
+    background: darkcyan;
+  }
+  div{
+    padding:40%;
+    margin: 50px;
+    width: 200px;
+    height:200px;
+    border-radius: 50%;
+    background: black;
+  }
+  #f{
+    Position:absolute;
+    padding: 40%;
+    margin: -36%;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: navy;
+  }
+  .h{
+    Position:absolute;
+    padding: 44%;
+    margin: -40%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: darkmagenta;
+  }
+  .a{
+    Position:absolute;
+    padding: 44%;
+    margin: -44%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: gold;
+  }
+  .b{
+    Position:absolute;
+    padding: 44%;
+    margin: -44%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: gainsboro;
+  }
+
+  .c{
+    Position:absolute;
+    padding: 44%;
+    margin: -44%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: rosybrown;
+  }
+  .d{
+    Position:absolute;
+    padding: 44%;
+    margin: -44%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: aquamarine;
+  }
+  .e{
+    Position:absolute;
+    padding: 44%;
+    margin: -44%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: orangered;
+  }
+  .g{
+    Position:absolute;
+    padding: 44%;
+    margin: -44%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: gainsboro;
+  }
+  
+  .a1{
+    Position:absolute;
+    padding: 44%;
+    margin: -44%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: violet;
+  }
+  .a2{
+    Position:absolute;
+    padding: 44%;
+    margin: -44%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: tomato;
+  }
+  .a3{
+    Position:absolute;
+    padding: 44%;
+    margin: -44%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: rosybrown;
+  }
+
+  .a4{
+    Position:absolute;
+    padding: 44%;
+    margin: -44%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: indianred;
+  }
+  .a5{
+    Position:absolute;
+    padding: 44%;
+    margin: -44%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: rosybrown;
+  }
+  .a6{
+    Position:absolute;
+    padding: 44%;
+    margin: -44%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: ivory;
+  }
+
+  .a7{
+    Position:absolute;
+    padding: 44%;
+    margin: -44%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: yellowgreen;
+  }
+  .a8{
+    Position:absolute;
+    padding: 44%;
+    margin: -44%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: navy;
+  }
+  .a9{
+    Position:absolute;
+    padding: 44%;
+    margin: -44%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: rosybrown;
+  }
+  .a10{
+
+    Position:absolute;
+    padding: 44%;
+    margin: -44%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: forestgreen;
+  }
+  .a11{
+
+    Position:absolute;
+    padding: 44%;
+    margin: -44%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: brown;
+  }
+  .a12{
+
+    Position:absolute;
+    padding: 44%;
+    margin: -44%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: hotpink;
+  }
+  .a13{
+
+    Position:absolute;
+    padding: 44%;
+    margin: -44%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: yellowgreen;
+  }
+  .a14{
+    Position:absolute;
+    padding: 44%;
+    margin: -44%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: yellowgreen;
+  }
+  .a15{
+
+    Position:absolute;
+    padding: 44%;
+    margin: -44%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: black;
+  }
+  .a16{
+
+    Position:absolute;
+    padding: 44%;
+    margin: -44%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: gold;
+  }
+  .a17{
+    Position:absolute;
+    padding: 44%;
+    margin: -44%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: honeydew;
+  }
+
+  .b1{
+    Position:absolute;
+    padding: 44%;
+    margin: -44%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: violet;
+  }
+  .b2{
+    Position:absolute;
+    padding: 44%;
+    margin: -44%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: tomato;
+  }
+  .b3{
+    Position:absolute;
+    padding: 44%;
+    margin: -44%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: rosybrown;
+  }
+
+  .b4{
+    Position:absolute;
+    padding: 44%;
+    margin: -44%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: indianred;
+  }
+  .b5{
+    Position:absolute;
+    padding: 44%;
+    margin: -44%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: rosybrown;
+  }
+  .b6{
+    Position:absolute;
+    padding: 44%;
+    margin: -44%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: ivory;
+  }
+
+  .b7{
+    Position:absolute;
+    padding: 44%;
+    margin: -44%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: yellowgreen;
+  }
+  .b8{
+    Position:absolute;
+    padding: 44%;
+    margin: -44%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: navy;
+  }
+  .b9{
+    Position:absolute;
+    padding: 44%;
+    margin: -44%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: rosybrown;
+  }
+  .b10{
+
+    Position:absolute;
+    padding: 44%;
+    margin: -44%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: forestgreen;
+  }
+  .b11{
+
+    Position:absolute;
+    padding: 44%;
+    margin: -44%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: brown;
+  }
+  .b12{
+
+    Position:absolute;
+    padding: 44%;
+    margin: -44%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: hotpink;
+  }
+  .b13{
+
+    Position:absolute;
+    padding: 44%;
+    margin: -44%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: yellowgreen;
+  }
+  .b14{
+    Position:absolute;
+    padding: 44%;
+    margin: -44%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: yellowgreen;
+  }
+  .b15{
+
+    Position:absolute;
+    padding: 44%;
+    margin: -44%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: black;
+  }
+  .b16{
+
+    Position:absolute;
+    padding: 44%;
+    margin: -44%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: gold;
+  }
+  .b17{
+    Position:absolute;
+    padding: 40%;
+    margin: -40%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: honeydew;
+  }
+  .b18{
+    Position:absolute;
+    padding: 40%;
+    margin: -40%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: red;
+  }
+  .b19{
+    Position:absolute;
+    padding: 40%;
+    margin: -40%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: wheat;
+  }
+  .b20{
+    Position:absolute;
+    padding: 40%;
+    margin: -40%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: orange;
+  }
+  .b21{
+    Position:absolute;
+    padding: 40%;
+    margin: -40%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: blue;
+  }
+
+
+  .c1{
+  Position:absolute;
+    padding: 40%;
+    margin: -40%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: greenyellow;
+  }
+  .c2{
+    Position:absolute;
+    padding: 44%;
+    margin: -44%;
+    width: 44px;
+    height:44px;
+    border-radius: 50%;
+    background: palevioletred;
+  }
+  .c3{
+    Position:absolute;
+    padding: 43%;
+    margin: -43%;
+    width: 43px;
+    height:43px;
+    border-radius: 50%;
+    background: limegreen;
+  }
+
+  .c4{
+    Position:absolute;
+    padding: 42%;
+    margin: -42%;
+    width: 42px;
+    height:42px;
+    border-radius: 50%;
+    background: rgb(6, 7, 63);
+  }
+  .c5{
+    Position:absolute;
+    padding: 41%;
+    margin: -41%;
+    width: 41px;
+    height:41px;
+    border-radius: 50%;
+    background: rgb(173, 43, 43);
+  }
+  .c6{
+    Position:absolute;
+    padding: 40%;
+    margin: -40%;
+    width: 40px;
+    height:40px;
+    border-radius: 50%;
+    background: rgb(168, 168, 119);
+  }
+
+  .c7{
+    Position:absolute;
+    padding: 39%;
+    margin: -39%;
+    width: 39px;
+    height:39px;
+    border-radius: 50%;
+    background: yellowgreen;
+  }
+  .c8{
+    Position:absolute;
+    padding: 38%;
+    margin: -38%;
+    width: 38px;
+    height:38px;
+    border-radius: 50%;
+    background: rgb(16, 16, 107);
+  }
+  .c9{
+    Position:absolute;
+    padding: 37%;
+    margin: -37%;
+    width: 37px;
+    height:37px;
+    border-radius: 50%;
+    background: rgb(201, 18, 18);
+  }
+  .c10{
+
+    Position:absolute;
+    padding: 36%;
+    margin: -36%;
+    width: 36px;
+    height:36px;
+    border-radius: 50%;
+    background: forestgreen;
+  }
+  .c11{
+
+    Position:absolute;
+    padding: 35%;
+    margin: -35%;
+    width: 35px;
+    height:35px;
+    border-radius: 50%;
+    background: brown;
+  }
+  .c12{
+    Position:absolute;
+    padding: 34%;
+    margin: -34%;
+    width: 34px;
+    height:34px;
+    border-radius: 50%;
+    background: hotpink;
+  }
+  .c13{
+
+    Position:absolute;
+    padding: 33%;
+    margin: -33%;
+    width: 33px;
+    height:33px;
+    border-radius: 50%;
+    background: yellowgreen;
+  }
+  .c14{
+    Position:absolute;
+    padding: 32%;
+    margin: -32%;
+    width: 32px;
+    height:32px;
+    border-radius: 50%;
+    background: yellowgreen;
+  }
+  .c15{
+
+    Position:absolute;
+    padding: 31%;
+    margin: -31%;
+    width: 31px;
+    height:31px;
+    border-radius: 50%;
+    background: black;
+  }
+  .c16{
+
+    Position:absolute;
+    padding: 30%;
+    margin: -30%;
+    width: 30px;
+    height:30px;
+    border-radius: 50%;
+    background: gold;
+  }
+  .c17{
+    Position:absolute;
+    padding: 29%;
+    margin: -29%;
+    width: 29px;
+    height:29px;
+    border-radius: 50%;
+    background: honeydew;
+  }
+  .c18{
+    Position:absolute;
+    padding: 28%;
+    margin: -28%;
+    width: 28px;
+    height:28px;
+    border-radius: 50%;
+    background: red;
+  }
+  .c19{
+    Position:absolute;
+    padding: 27%;
+    margin: -27%;
+    width: 27px;
+    height:27px;
+    border-radius: 50%;
+    background: wheat;
+  }
+  .c20{
+    Position:absolute;
+    padding: 40%;
+    margin: -40%;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+    background: orange;
+  }
+  .c21{
+    Position:absolute;
+    padding: 26%;
+    margin: -26%;
+    width: 26px;
+    height:26px;
+    border-radius: 50%;
+    background: maroon;
+  }
+
+  .d25{
+    Position:absolute;
+    padding: 25%;
+    margin: -25%;
+    width: 25px;
+    height:25px;
+    border-radius: 50%;
+    background: white;
+  }
+
+  .d24{
+    Position:absolute;
+    padding: 24%;
+    margin: -24%;
+    width: 24px;
+    height:24px;
+    border-radius: 50%;
+    background:black;
+  }
+
+  .d23{
+    Position:absolute;
+    padding: 23%;
+    margin: -23%;
+    width: 23px;
+    height:23px;
+    border-radius: 50%;
+    background: white;
+  }
+
+  .d22{
+    Position:absolute;
+    padding: 22%;
+    margin: -22%;
+    width: 22px;
+    height:22px;
+    border-radius: 50%;
+    background: black;
+  }
+
+  .d21{
+    Position:absolute;
+    padding: 21%;
+    margin: -21%;
+    width: 21px;
+    height:21px;
+    border-radius: 50%;
+    background: black;
+  }
+
+  .d20{
+    Position:absolute;
+    padding: 20%;
+    margin: -20%;
+    width: 20px;
+    height:20px;
+    border-radius: 50%;
+    background: white;
+  }
+
+  .d19{
+    Position:absolute;
+    padding: 19%;
+    margin: -19%;
+    width: 19px;
+    height:19px;
+    border-radius: 50%;
+    background: black;
+  }
+
+  .d18{
+    Position:absolute;
+    padding: 18%;
+    margin: -18%;
+    width: 18px;
+    height:18px;
+    border-radius: 50%;
+    background: white;
+  }
+
+  .d17{
+    Position:absolute;
+    padding: 17%;
+    margin: -17%;
+    width: 17px;
+    height:17px;
+    border-radius: 50%;
+    background: black;
+  }
+
+  .d16{
+    Position:absolute;
+    padding: 16%;
+    margin: -16%;
+    width: 17px;
+    height:17px;
+    border-radius: 50%;
+    background: white;
+  }
+
+  .d15{
+    Position:absolute;
+    padding: 15%;
+    margin: -15%;
+    width: 15px;
+    height:15px;
+    border-radius: 50%;
+    background: black;
+  }
+
+  .d14{
+    Position:absolute;
+    padding: 14%;
+    margin: -14%;
+    width: 14px;
+    height:14px;
+    border-radius: 50%;
+    background:  white;
+  }
+
+  .d13{
+    Position:absolute;
+    padding: 13%;
+    margin: -13%;
+    width: 13px;
+    height:13px;
+    border-radius: 50%;
+    background: maroon;
+  }
+
+  .d12{
+    Position:absolute;
+    padding: 12%;
+    margin: -12%;
+    width: 12px;
+    height:12px;
+    border-radius: 50%;
+    background: black;
+  }
+
+  .d11{
+    Position:absolute;
+    padding: 11%;
+    margin: -11%;
+    width: 11px;
+    height:11px;
+    border-radius: 50%;
+    background: white;
+  }
+
+  .d10{
+    Position:absolute;
+    padding: 10%;
+    margin: -10%;
+    width: 10px;
+    height:10px;
+    border-radius: 50%;
+    background: black;
+  }
+
+  .d9{
+    Position:absolute;
+    padding: 9%;
+    margin: -9%;
+    width: 9px;
+    height:9px;
+    border-radius: 50%;
+    background: white;
+  }
+
+  .d8{
+    Position:absolute;
+    padding: 8%;
+    margin: -8%;
+    width: 8px;
+    height:8px;
+    border-radius: 50%;
+    background: black;
+  }
+
+  .d7{
+    Position:absolute;
+    padding: 7%;
+    margin: -7%;
+    width: 7px;
+    height:7px;
+    border-radius: 50%;
+    background: white;
+  }
+
+  .d6{
+    Position:absolute;
+    padding: 6%;
+    margin: -6%;
+    width: 6px;
+    height:6px;
+    border-radius: 50%;
+    background: black;
+  }
+
+  .d5{
+    Position:absolute;
+    padding: 5%;
+    margin: -5%;
+    width: 5px;
+    height:5px;
+    border-radius: 50%;
+    background: white;
+  }
+
+  .d4{
+    Position:absolute;
+    padding: 4%;
+    margin: -4%;
+    width: 4px;
+    height:4px;
+    border-radius: 50%;
+    background: indianred;
+  }
+
+  .d3{
+    Position:absolute;
+    padding: 3%;
+    margin: -3%;
+    width: 3px;
+    height:3px;
+    border-radius: 50%;
+    background: red;
+  }
+
+  .d2{
+    Position:absolute;
+    padding: 2%;
+    margin: -2%;
+    width: 2px;
+    height:2px;
+    border-radius: 50%;
+    background: black;
+  }
+
+  .d1{
+    Position:absolute;
+    padding: 1%;
+    margin: -1%;
+    width: 1px;
+    height:1px;
+    border-radius: 50%;
+    background: yellow;
+  }
+
+  .d0{
+    Position:absolute;
+    padding: 0%;
+    margin: -0%;
+    width: 0px;
+    height:0px;
+    border-radius: 50%;
+    background: navajowhite;
+  }
